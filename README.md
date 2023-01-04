@@ -7,8 +7,8 @@ This will populate your scratchpad
 
 
 It is usefull to add these to i3 config
-
+```
   bindsym $mod+o [class=.] scratchpad show
 
   bindsym $mod+a exec --no-startup-id path to script
-
+```
